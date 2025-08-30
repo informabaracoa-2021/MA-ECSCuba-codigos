@@ -1,0 +1,14 @@
+name: ma-ecscuba
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10
+  - pandas>=2.2
+  - numpy>=1.26
+  - matplotlib>=3.8
+  - scikit-learn>=1.5
+  - jupyterlab>=4.1
+  - networkx>=3.2
+  - pip
+  - pip:
+      - openpyxl>=3.1

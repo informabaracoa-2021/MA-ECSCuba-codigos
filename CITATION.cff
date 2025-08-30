@@ -1,0 +1,18 @@
+﻿cff-version: 1.2.0
+message: Si usas este repositorio, por favor cítalo.
+title: "MA-ECSCuba-codigos"
+version: "1.0.0"
+date-released: "2025-08-30"
+authors:
+  - family-names: "Ortiz"
+    given-names: "Roelvis"
+license: "MIT"
+repository-code: "https://github.com/informabaracoa-2021/MA-ECSCuba-codigos"
+preferred-citation:
+  type: thesis
+  title: "Modelo alternativo de evaluación de la investigación para las Ciencias Sociales en Cuba (MA‑ECSCuba)"
+  authors:
+    - family-names: "Ortiz-Núñez"
+      given-names: "Roelvis"
+  year: 2025
+  institution: "Universidad Pontificia Bolivariana (Medellín)"
